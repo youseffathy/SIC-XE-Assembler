@@ -1,0 +1,10 @@
+Line no.            Address             Label               Op-Code             Operands            
+1                   0000                BGN                 START               0000                
+2                   0000                                    BASE                BGN                 
+3                   0000                STR                 EQU                 =3000               
+4                   0000                                    LDA                 STR                 
+5                   0003                                    END                                     
+-----------------------------------------------------------------------
+Symbol              Address             Type                
+STR                 3000                absolute            
+BGN                 0                   relocatable         

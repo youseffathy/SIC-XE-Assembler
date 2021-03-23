@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1557868745 source:d:\joe\personal training c++\assembler2.1\main.cpp
+	<iostream>
+	<algorithm>
+	<unordered_map>
+	"TargetAddress.h"
+	<string>
+	<iterator>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	"ObjectProgramHandler.h"
+	"Pass2.h"
+	<fstream>
+	<iomanip>
+	<sstream>
+	"Parser.h"
+	<regex>
+
+1556858873 d:\joe\personal training c++\assembler2.1\include\operationtable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1556858980 d:\joe\personal training c++\assembler2.1\include\directives.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557323444 d:\joe\personal training c++\assembler2.1\include\symboltable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557410939 d:\joe\personal training c++\assembler2.1\include\parser.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557412956 source:d:\joe\personal training c++\assembler2.1\src\directives.cpp
+	"directives.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557061962 source:d:\joe\personal training c++\assembler2.1\src\operationtable.cpp
+	"operationTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557698981 source:d:\joe\personal training c++\assembler2.1\src\parser.cpp
+	<iostream>
+	<vector>
+	<regex>
+	"Parser.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	<string>
+
+1557323424 source:d:\joe\personal training c++\assembler2.1\src\symboltable.cpp
+	"symbolTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557868536 source:d:\joe\personal training c++\assembler2.1\src\pass2.cpp
+	"Pass2.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	"FlagBits.h"
+	"TargetAddress.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<unordered_map>
+	<string>
+	<iterator>
+	<regex>
+
+1557410482 d:\joe\personal training c++\assembler2.1\include\pass2.h
+	<iostream>
+	<algorithm>
+	<string>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557371684 source:d:\joe\personal training c++\assembler2.1\src\targetaddress.cpp
+	"TargetAddress.h"
+	"symbolTable.h"
+	<regex>
+	<string>
+	<unordered_map>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<sstream>
+	<fstream>
+
+1557371592 d:\joe\personal training c++\assembler2.1\include\targetaddress.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	"symbolTable.h"
+
+1557236565 source:d:\joe\personal training c++\assembler2.1\src\flagbits.cpp
+	"FlagBits.h"
+	<regex>
+
+1557236218 d:\joe\personal training c++\assembler2.1\include\flagbits.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557706517 source:d:\joe\personal training c++\assembler2.1\src\objectprogramhandler.cpp
+	"ObjectProgramHandler.h"
+	<iostream>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<sstream>
+	"ObjectProgramHandler.h"
+
+1557410935 d:\joe\personal training c++\assembler2.1\include\objectprogramhandler.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+
